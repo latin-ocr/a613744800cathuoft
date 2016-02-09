@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "a613744800cathuoft_0113.png"; bbox 0 0 2534 4374; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 807 923 1502 1003">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 807 923 1502 1003">
+     <span class='ocr_line' id='line_1_1' title="bbox 807 923 1502 1003; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 807 923 1502 1003; x_wconf 81' lang='lat' dir='ltr'><strong>DECRETA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 401 1357 1890 1454">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 401 1357 1890 1454">
+     <span class='ocr_line' id='line_1_2' title="bbox 401 1357 1890 1454; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 401 1357 942 1453; x_wconf 84' lang='lat' dir='ltr'><strong>CONCILII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1055 1358 1890 1454; x_wconf 83' lang='lat' dir='ltr'>PROVINCIALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 590 1754 1702 1851">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 590 1754 1702 1851">
+     <span class='ocr_line' id='line_1_3' title="bbox 590 1754 1702 1851; baseline 0.002 -2"><span class='ocrx_word' id='word_1_4' title='bbox 590 1754 1702 1851; x_wconf 83' lang='lat' dir='ltr'>WESTMONASTERIENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 914 2154 1371 2249">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 914 2154 1371 2249">
+     <span class='ocr_line' id='line_1_4' title="bbox 914 2154 1371 2249; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 914 2154 1225 2249; x_wconf 83' lang='lat' dir='ltr'>SECUN</span> <span class='ocrx_word' id='word_1_6' title='bbox 1243 2154 1371 2248; x_wconf 89' lang='lat' dir='ltr'><strong>DI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 846 2796 1438 2845">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 846 2796 1438 2845">
+     <span class='ocr_line' id='line_1_5' title="bbox 846 2796 1438 2845; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 846 2796 1438 2845; x_wconf 84' lang='lat'>............</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
